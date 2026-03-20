@@ -36,7 +36,8 @@
 
 ## 🖼️ Smart Contract Deployment
 
-![Contract Deployment](./assets/contract.png)
+<img width="1911" height="902" alt="image" src="https://github.com/user-attachments/assets/3e4c3a40-5bbb-4649-8df8-ca4ff01dc39a" />
+
 
 > ✅ Successfully deployed NFT smart contract on Stellar Testnet
 
