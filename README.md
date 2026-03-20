@@ -3,8 +3,9 @@
 # 🚀 NFT Minting Platform
 
 ### ⚡ Powered by Soroban Smart Contracts on Stellar
+<img width="1919" height="925" alt="Screenshot 2026-03-20 150411" src="https://github.com/user-attachments/assets/013e6112-b4da-44c5-9267-4dcb7e387942" />
 
-https://miro.medium.com/v2/resize\:fit:1400/1*Z5vT2z4Q4Z1c6z0sQK5QbA.png
+
 
 ---
 
