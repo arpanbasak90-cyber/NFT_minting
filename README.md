@@ -4,7 +4,7 @@
 
 ### ⚡ Powered by Soroban Smart Contracts on Stellar
 
-![banner](https://miro.medium.com/v2/resize\:fit:1400/1*Z5vT2z4Q4Z1c6z0sQK5QbA.png)
+https://miro.medium.com/v2/resize\:fit:1400/1*Z5vT2z4Q4Z1c6z0sQK5QbA.png
 
 ---
 
