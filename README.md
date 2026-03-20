@@ -66,12 +66,11 @@
 
 ## 🧱 Architecture
 
-```mermaid
+
 flowchart TD
     A[User Wallet] --> B[Frontend UI]
     B --> C[Smart Contract (Soroban)]
     C --> D[Stellar Blockchain]
-```
 
 ---
 
