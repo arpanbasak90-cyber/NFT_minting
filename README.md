@@ -1,1 +1,1 @@
-# NFT_minting
+# NFT_Minting-Platform app
