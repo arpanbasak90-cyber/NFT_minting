@@ -126,7 +126,7 @@ npm start
 
 **Arpan Basak**
 
-📧 Email: [arpanbasaak90@gmail.com](mailto:arpanbasaak90@gmail.com)
+📧 Email: [arpanbasak90@gmail.com](mailto:arpanbasaak90@gmail.com)
 🔗 GitHub: https://github.com/arpanbasak90-cyber
 
 ---
