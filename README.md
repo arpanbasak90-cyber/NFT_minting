@@ -134,10 +134,15 @@ npm start
 
 🔥 Future Vision
 This is just the beginning. The goal is to evolve this into a complete ecosystem including:
+
 🛒 Full NFT Marketplace
+
 🌐 Decentralized storage (IPFS)
+
 💰 Creator royalty system
+
 👛 Seamless wallet integration
+
 
 ## ⭐ Support
 
