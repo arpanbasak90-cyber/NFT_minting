@@ -132,6 +132,13 @@ npm start
 
 ---
 
+🔥 Future Vision
+This is just the beginning. The goal is to evolve this into a complete ecosystem including:
+🛒 Full NFT Marketplace
+🌐 Decentralized storage (IPFS)
+💰 Creator royalty system
+👛 Seamless wallet integration
+
 ## ⭐ Support
 
 If you like this project:
@@ -147,4 +154,5 @@ If you like this project:
 > “Real Web3 projects are proven by on-chain activity — this one is.”
 
 🔥 Built for the decentralized future
+
 
