@@ -168,12 +168,19 @@ NFT_minting/
 
 
 ✨ Features
+
 🔗 Connect wallet (MetaMask)
+
 🎨 Mint your own NFTs
+
 📦 Upload metadata (name, description, asset link)
+
 ⛓️ Smart contract interaction
+
 🌐 Decentralized storage support (IPFS/Pinata)
+
 ⚡ Simple and clean UI
+
 
 
 ## 💬 Final Thought
