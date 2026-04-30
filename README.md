@@ -159,6 +159,13 @@ If you like this project:
 
 ---
 
+NFT_minting/
+│── client/              # Frontend React app
+│── contracts/           # Smart contracts
+│── scripts/             # Deployment scripts
+│── README.md
+
+
 ## 💬 Final Thought
 
 > “Real Web3 projects are proven by on-chain activity — this one is.”
