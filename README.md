@@ -167,6 +167,15 @@ NFT_minting/
 │── README.md
 
 
+✨ Features
+🔗 Connect wallet (MetaMask)
+🎨 Mint your own NFTs
+📦 Upload metadata (name, description, asset link)
+⛓️ Smart contract interaction
+🌐 Decentralized storage support (IPFS/Pinata)
+⚡ Simple and clean UI
+
+
 ## 💬 Final Thought
 
 > “Real Web3 projects are proven by on-chain activity — this one is.”
