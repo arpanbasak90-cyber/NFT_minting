@@ -138,6 +138,16 @@ flowchart TD
 
 ---
 
+## ▶️ Usage
+
+1. Start the app  
+2. Connect MetaMask  
+3. Enter NFT details  
+4. Click **Mint NFT**  
+5. Confirm transaction  
+
+Once confirmed, NFT will appear in your wallet.
+
 ## 🚀 Getting Started
 
 ```bash
