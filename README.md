@@ -40,42 +40,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Built With](https://img.shields.io/badge/Built%20With-Rust%20%7C%20React%20%7C%20Stellar-purple)
 
----
-## 🧠 System Architecture (End-to-End Flow)
-
-```mermaid
-
-graph TD
-
-A[User] --> B[React Frontend]
-
-B --> C[MetaMask Wallet]
-
-C --> D[Smart Contract (ERC-721)]
-
-B --> E[IPFS / Pinata]
-
-E --> F[Metadata URI]
-
-F --> D
-
-D --> G[NFT Minted to User Wallet]
-
-
----
-
-
-```md
-
-### 🔍 Flow Explanation
-
-1. User interacts with the React frontend  
-2. Wallet connection is handled via MetaMask  
-3. NFT data is uploaded to IPFS (decentralized storage)  
-4. IPFS returns a metadata URI  
-5. Smart contract `mint` function is called with this URI  
-6. NFT is minted and assigned to the user's wallet  
-  
 
 ## 🌌 Vision
 
