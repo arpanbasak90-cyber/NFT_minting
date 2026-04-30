@@ -8,6 +8,31 @@
 
 ---
 
+## 📚 Table of Contents
+
+- Overview
+  
+- Features
+  
+- Tech Stack
+  
+- Architecture
+  
+- Installation
+  
+- Usage
+  
+- API / Smart Contract
+  
+- Screenshots
+  
+- Roadmap
+  
+- Contributing
+  
+- License
+  
+
 ## 🏆 Project Status
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/arpanbasak90-cyber/NFT_minting)
