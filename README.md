@@ -42,6 +42,17 @@
 
 ---
 
+## 🏗️ Architecture
+
+User → React Frontend → Web3 Provider → Smart Contract → IPFS (Metadata Storage)
+
+- Frontend handles UI & wallet interaction
+  
+- Smart contract manages NFT minting
+  
+- IPFS stores metadata (decentralized)
+  
+
 ## 🌌 Vision
 
 > Building the future of digital ownership with a **fast, low-cost NFT platform on Stellar**.
