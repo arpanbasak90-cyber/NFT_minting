@@ -1,4 +1,4 @@
-# NFT_Minting-Platform app
+> 🚀 A decentralized NFT minting platform powered by Soroban smart contracts on Stellar.
 
 # 🚀 NFT Minting Platform
 
